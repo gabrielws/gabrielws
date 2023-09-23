@@ -25,7 +25,6 @@
             <li>🧑🏻‍🎓 <b>Atualmente no 6° Período da Faculdade (Bacharelado em Ciência da Computação).</b></li>
             <li>💻 <b>Estagiário na </b><a target="_blank" href="https://www.linkedin.com/company/z-act/">Kummos (Z-Act)</a>.</li>
             <li>🥇 <b>Participante e medalhista em maratonas de programação.</b></li>
-            <li>💙 <b>Sou um apaixonado por PHP, mas também tenho conhecimentos em C++ e Java, as quais utilizo principalmente em competições e em projetos.</b></li>
             <li>💡 <b>Gosto de participar de projetos de forma voluntária.</b></li>
             <li>📄 <b>Possuo certificações AWS, Azure, IBM Turbonomic e Instana</b>. <a href="https://www.credly.com/users/gabriel.oliveira">Link para todas as minhas certificações no Credly</a>.</li>
         </ul>
