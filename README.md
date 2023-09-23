@@ -16,23 +16,23 @@
         <p>
             <strong>
                 Olá, meu nome é Gabriel. Atualmente estou no 6° Período do curso de Bacharelado em Ciência da Computação e sou Estagiário na Kummos.<br><br>
-                Atualmente trabalho principalmente com administração de ambientes como AWS, Azure e Openshift. Também desenvolvo ativdades em outras áreas, tal como desenvolvimento e soluções FinOps.<br><br>
             </strong>
         </p>
         <ul>
-            <li>👨‍💻 <b>Sou apaixonado por programação.</b></li>
+            <li>👨‍💻 <b>Apaixonado em programação.</b></li>
             <li>⭐️ <b>Um entusiasta em Open Source.</b></li>
             <li>🧑🏻‍🎓 <b>Atualmente no 6° Período da Faculdade (Bacharelado em Ciência da Computação).</b></li>
             <li>💻 <b>Estagiário na </b><a target="_blank" href="https://www.linkedin.com/company/z-act/">Kummos (Z-Act)</a>.</li>
             <li>🥇 <b>Participante e medalhista em maratonas de programação.</b></li>
             <li>💡 <b>Gosto de participar de projetos de forma voluntária.</b></li>
-            <li>📄 <b>Possuo certificações AWS, Azure, IBM Turbonomic e Instana</b>. <a href="https://www.credly.com/users/gabriel.oliveira">Link para todas as minhas certificações no Credly</a>.</li>
+            <li>📄 <b>Possuo certificações AWS, Azure, IBM Turbonomic e Instana</b>. <a href="https://www.credly.com/users/gabriel.oliveira">Credly</a>.</li>
         </ul>
     </div>
     <div align=left>
         <h2>Minhas Skills</h2>
         <div>
             <h3>Linguagens e Tecnologias</h3>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
             <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
