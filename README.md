@@ -15,7 +15,7 @@
         <br>
         <p>
             <strong>
-                Olá, meu nome é Gabriel. Atualmente estou no 6° Período do curso de Bacharelado em Ciência da Computação e sou Estagiário na Kummos.<br><br>
+                Olá, meu nome é Gabriel. Atualmente estou no 6° Período do curso de Bacharelado em Ciência da Computação e sou Estagiário na Kummos.<br>
             </strong>
         </p>
         <ul>
