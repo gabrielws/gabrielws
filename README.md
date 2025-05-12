@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=gabrielws&style=flat&color=blue" alt="profile views"/>
-</p>
+
 
 <h1 >Olá, meu nome é Gabriel 👋</h2>
 
@@ -26,4 +24,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,java,ts,nuxtjs,vue,python,postgres,linux,github" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gabrielws&style=flat&color=blue" alt="profile views"/>
 </p>
