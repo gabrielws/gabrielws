@@ -1,22 +1,29 @@
-## Sobre mim
-
-<img src="comp.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<p align="left">Olá, meu nome é Gabriel. Atualmente, no 7° Período do Curso de Bacharelado em Ciência da Computação e estagiário na <a href = "https://www.z-act.io/" target="_blank"><strong>Z-Act</strong></a>. Um apaixonado por programação, participante de maratonas de programação e de projetos Open Source.</p>
-
-<p align="left">
-  <strong>🦄 Linguagens, Tecnologias e Frameworks:</strong> JavaScript, Node.JS, PHP, C++, Python, HTML, CSS, Banco de Dados, Nuxt.Js, Vue.Js, Laravel, Codeigniter, Tailwind CSS e Flask
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gabrielws&style=flat&color=blue" alt="profile views"/>
 </p>
 
-<p align="left">
-  <strong>💻 Ambientes:</strong> Microsoft Azure, Amazon AWS e Red Hat Openshift
+<h1 >Olá, meu nome é Gabriel 👋</h2>
+
+<p>
+  Analista de Sistemas Jr. na <a href="https://www.z-act.io/">Z-Act</a>
 </p>
 
-<p align="left">
-  <strong>💼 Ferramentas:</strong> Docker, GIT/Github, Postman e algumas outras bugigangas.
+
+## 👨‍💻 O que faço atualmente
+
+- **Cloud/FinOps:** Otimização e gestão de custos em **AWS**, **Azure** e **GCP**
+- **Backend:** Microsserviços com **Java (Quarkus)**, **PostgreSQL** e **Kafka**
+- **Frontend:** Aplicações modernas com **TypeScript**, **Nuxt.js** e **Vue.js**
+- **Observabilidade e DevOps:** **IBM Instana**, **Turbonomic**, **Docker** e **Kubernetes**
+
+## 🚧 Áreas de Interesse
+
+- **Inteligência Artificial** _(LLMs e IA tradicional)_
+- **Open Source** e comunidades técnicas
+- **Leitura de papers** e artigos técnicos
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,java,ts,nuxtjs,vue,python,postgres,linux,github" />
 </p>
-
-### 💌 Onde me encontrar 
-
-<a href="mailto:gabrielmessias.ws@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabrieloliveiranr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielws"/>
